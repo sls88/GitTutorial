@@ -1,5 +1,5 @@
-Hello Git! 12345 dobavim cifr
-Lastttt
+Hello Git! 12345
 Last str222
 Anouther
 Shtuka
+88888
